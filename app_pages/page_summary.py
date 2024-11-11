@@ -105,7 +105,7 @@ def page_summary_body():
     st.write(
         "* For additional information, please visit and **read** the "
         "[Project README file]"
-        "(https://github.com/rimanfarhood/HeritageHousePrediction/blob/main/"
+        "(https://github.com/Odmarken/housing-pp5"
         "README.md)."
         )
     

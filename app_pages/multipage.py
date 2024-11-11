@@ -1,8 +1,5 @@
 import streamlit as st
 
-# This code is taken from the churnometer walkthrough project
-# Class to generate multiple Streamlit pages using an object oriented approach
-
 
 class MultiPage:
 
