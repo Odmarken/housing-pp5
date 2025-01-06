@@ -112,5 +112,6 @@ The app is deployed on Heroku using the following steps:
 - Special thanks to the CI community 
 - Huge thanks to Riman with her I would not have made it! link to her project (https://github.com/rimanfarhood/HeritageHousePrediction)
 - This was probably the hardest project yet to grasp and understand
+- It was hard to get help since I couldn’t access a tutor for this project; I could only use Slack and my mentor, which felt underwhelming, making the process extremely challenging.
 
 
